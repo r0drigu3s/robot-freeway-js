@@ -6,7 +6,7 @@ Em Robot Freeway, o jogador controla um robô que deve atravessar uma rodovia ch
 
 ## Link do projeto no GitHub Pages`:`
 
-[GitHub Pages]()
+[GitHub Pages](https://r0drigu3s.github.io/robotFreeway-js/)
 
 ## Construído com`:`
 
