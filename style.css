@@ -1,0 +1,36 @@
+body {
+  align-items: center;
+  background: linear-gradient(45deg, black 0%, grey 100%);
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Righteous';
+  font-size: 22px;
+  justify-content: center;
+  margin: 0;
+  min-block-size: 100vh;
+  padding: 0;
+}
+
+h1 {
+  color: silver;
+  font-size: 55px;
+  margin-block-end: 20px;
+  text-align: center;
+}
+
+p{
+  color: whitesmoke;
+  font-size: 22px;
+  margin-block-end: 20px;
+  text-align: center;
+}
+
+a {
+  color: silver;
+  text-decoration: none;
+}
+
+canvas {
+  display: block;
+}
