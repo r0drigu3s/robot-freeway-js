@@ -97,7 +97,7 @@ function gameOver() {
     noLoop();
     textAlign(CENTER);
     textSize(50);
-    text('GAME OVER', width / 2, height / 2);
+    text('FIM DE JOGO', width / 2, height / 2);
   }
 }
 
