@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "minify": "^5.1.1",
-    "replace-in-file": "^6.1.0"
+    "replace-in-file": "^6.3.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
