@@ -5,7 +5,7 @@
   "main": "p5.collide2d.js",
   "dependencies": {},
   "devDependencies": {
-    "minify": "^5.2.0",
+    "minify": "^6.0.0",
     "replace-in-file": "^6.1.0"
   },
   "scripts": {
